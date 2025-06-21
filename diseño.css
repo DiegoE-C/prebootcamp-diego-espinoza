@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(127, 160, 204);
+    text-align: center;
+    font-family: Arial;
+    padding-top: 100px;
+    }
+        
+input {
+    padding: 10px;
+    font-size: 16px;
+    }
+        
+button {
+    background-color: rgb(238, 151, 69);
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    }
+        
+#contenedorSld {
+    color: rgb(12, 5, 5);
+    font-size: 20px;
+    margin-top: 20px;
+    }
